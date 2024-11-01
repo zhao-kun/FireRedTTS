@@ -12,3 +12,5 @@ damo/*
 */**/.DS_Store
 *.egg-info
 */**/*.pt
+*.wav
+pretrained_models/*

@@ -1,3 +1,5 @@
+gradio==v4.44.1
+huggingface_hub==0.25.2
 diffusers==0.27.2
 librosa==0.10.2
 soundfile==0.12.1
